@@ -12,8 +12,8 @@ Welcome to the Project, I've generated a comprehensive report on a bank using bo
 
 
 ## Step Followed while creating the Report!
-Below are the step that how I used <b>Power Bi<b> and <b> Excel <b> for creating the report:
-- **Data Cleaning:** Clean and preprocess the data using <b> Excel <b>.
+Below are the step that how I used <b>Power Bi</b> and <b> Excel </b> for creating the report:
+- **Data Cleaning:** Clean and preprocess the data using <b> Excel </b>.
 - **Statistical Analysis:** Perform statistical analysis on your data to identify patterns and trends.
 - **DAX Functions:** Utilized DAX functions for enhanced information visualization in a single visual.
 - **Visualization:** Generate insightful/interactive Visuals and graphs for effective data representation.
