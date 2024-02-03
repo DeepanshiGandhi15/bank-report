@@ -1,17 +1,26 @@
-# bank-report
-I've generated a comprehensive report on a bank using both Power BI and Excel. The report delves into the analysis of loan data, customer information, card usage across various customer segments, order details, bank expenses, and more. I've presented the findings to the team and addressed the specified problem statement.
-i was supposed to do bank analysis where i need to advice some methods so that bank can increase the productivity and minimize the cost.
-Cleaned data in Excel.
-Removed blank rows and unwanted columns.
-Utilized DAX functions for enhanced information visualization in a single visual.
-Created custom columns and calculated columns using Power Query.
-# OUTPUT
-In this report I find that hl.m. is the top district where clients have highest average salary.
-large number of people are using classic type of card.
-In year 1998 sales of cards has been increased by 11 million .
-The amount spend on PRIJEM type of transaction is near about 51%.
-The large section of clients are from north and south Moravia region.
-There are 83% of Disponents and 17% are owners.
-WX is the bank where large number amount has been transferred.
-Sipo is the most frequently used K symbol.
-The account frequency 'poplatek mesicne' has a large number of account IDs.
+# Project Title: AwesomeDataAnalyzer
+
+## Description
+Welcome to AwesomeDataAnalyzer, a powerful tool for analyzing and visualizing complex datasets with ease. This project aims to provide a user-friendly interface to explore and gain insights from various types of data. Whether you're a data scientist, researcher, or enthusiast, AwesomeDataAnalyzer makes data analysis accessible and enjoyable.
+
+## Tools Used
+- 📱 &nbsp;
+![Power BI](https://img.shields.io/badge/PowerBI-Green?style=social&logo=powerbi&logoColor=White&labelColor=yellow)
+
+- 🔧 &nbsp;
+  ![MS Excel](https://img.shields.io/badge/Excel-Green?logo=Microsoft%20Excel&labelColor=red)
+
+
+## Insights
+Explore and uncover valuable insights from your datasets using AwesomeDataAnalyzer's features, including:
+- **Data Cleaning:** Clean and preprocess your data effortlessly.
+- **Visualization:** Generate insightful charts and graphs for effective data representation.
+- **Statistical Analysis:** Perform statistical analysis on your data to identify patterns and trends.
+- **Machine Learning Integration:** Seamlessly integrate machine learning models for predictive analysis.
+
+## Output
+See AwesomeDataAnalyzer in action! Watch the video below for a quick walkthrough and demonstration of the tool's capabilities.
+
+[![AwesomeDataAnalyzer Demo](link-to-your-demo-video-thumbnail)](link-to-your-demo-video)
+
+Feel free to contribute, report issues, or suggest enhancements. Your feedback is crucial for making AwesomeDataAnalyzer even more awesome!
