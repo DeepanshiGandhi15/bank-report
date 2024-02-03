@@ -1,7 +1,7 @@
-# Project Title: AwesomeDataAnalyzer
+# Project Title: 
 
 ## Description
-Welcome to AwesomeDataAnalyzer, a powerful tool for analyzing and visualizing complex datasets with ease. This project aims to provide a user-friendly interface to explore and gain insights from various types of data. Whether you're a data scientist, researcher, or enthusiast, AwesomeDataAnalyzer makes data analysis accessible and enjoyable.
+Welcome to , I've generated a comprehensive report on a bank using both Power BI and Excel. The report delves into the analysis of loan data, customer information, card usage across various customer segments, order details, bank expenses, and more. I've presented the findings to the team and addressed the specified problem statement.
 
 ## Tools Used
 - 📱 &nbsp;
@@ -19,8 +19,8 @@ Explore and uncover valuable insights from your datasets using AwesomeDataAnalyz
 - **Machine Learning Integration:** Seamlessly integrate machine learning models for predictive analysis.
 
 ## Output
-See AwesomeDataAnalyzer in action! Watch the video below for a quick walkthrough and demonstration of the tool's capabilities.
+See AwesomeDataAnalyzer in action! Watch the video below for a quick demonstration of the Project.
 
-[![AwesomeDataAnalyzer Demo](link-to-your-demo-video-thumbnail)](link-to-your-demo-video)
+[![Bank_REport Demo](link-to-your-demo-video-thumbnail)](link-to-your-demo-video)
 
-Feel free to contribute, report issues, or suggest enhancements. Your feedback is crucial for making AwesomeDataAnalyzer even more awesome!
+
