@@ -21,6 +21,6 @@ Below are the step that how I used <b>Power Bi<b> and <b> Excel <b> for creating
 ## Output
 See the Report in action! Watch the video below for a quick demonstration of the Project.
 
-[![Bank_REport Demo](link-to-your-demo-video-thumbnail)](link-to-your-demo-video)
+![download](https://github.com/DeepanshiGandhi15/bank-report/assets/158074219/bd17c075-1989-4326-a308-84fc58ce0bc4)
 
 
