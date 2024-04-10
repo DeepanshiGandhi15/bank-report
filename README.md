@@ -22,5 +22,7 @@ Below are the step that how I used <b>Power Bi</b> and <b> Excel </b> for creati
 See the Report in action! Watch the video below for a quick demonstration of the Project.
 
 ![download](https://github.com/DeepanshiGandhi15/bank-report/assets/158074219/bd17c075-1989-4326-a308-84fc58ce0bc4)
+![Screenshot 2024-04-10 213700](https://github.com/DeepanshiGandhi15/bank-report/assets/158074219/0361ced8-a37a-4bb4-91fd-4498d63c3e7f)
+
 
 
